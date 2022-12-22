@@ -1,7 +1,7 @@
 [![MasterHead](https://code.org/images/dance_party_2019.gif)](http://wazeer.tk)
 <h1 align="center">Hi 👋, I'm wazeer ahmed</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif"/>
+<img align="right" alt="Coding" width="400" margin="0 auto" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wazeer1&label=Profile%20views&color=0e75b6&style=flat" alt="wazeer1" /> </p>
 
 - 🔭 I’m currently working on [chat app using mern](https://github.com/wazeer1/mearn-chat-app-frontend.git)
