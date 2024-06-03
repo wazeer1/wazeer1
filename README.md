@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **tenserflow,scikit-learn,pandas,numpy**
 
-- 👨‍💻 All of my projects are available at [gitlab](https://github.com/wazeer1/wazeer1)
+- 👨‍💻 All of my projects are available at [github](https://github.com/wazeer1/wazeer1)
 
 - 💬 Ask me about **react,python,django,native,node,express,threeJS,tenserflow,nextjs,**
 
