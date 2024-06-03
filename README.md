@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **tenserflow,scikit-learn,pandas,numpy**
 
-- 👨‍💻 All of my projects are available at mailtowazeer@gmail.com
+- 👨‍💻 All of my projects are available at [gitlab](https://github.com/wazeer1/wazeer1)
 
 - 💬 Ask me about **react,python,django,native,node,express,threeJS,tenserflow,nextjs,**
 
-- 📫 How to reach me **wazeerwazz123@gmail.com**
+- 📫 You can reach me at [mailto:mailtowazeer@gmail.com](mailto:mailtowazeer@gmail.com).
 
 - 📄 Know about my experiences [http://wazeer.tk/static/media/resume_wazeer.0558c1036ae8ba2a13ad.pdf](http://wazeer.tk/static/media/resume_wazeer.0558c1036ae8ba2a13ad.pdf)
 
