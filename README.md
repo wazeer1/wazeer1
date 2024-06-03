@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [chat app using mern](https://github.com/wazeer1/mearn-chat-app-frontend.git)
 
-- 🌱 I’m currently learning **nodejs,express,mongodb,threejs**
+- 🌱 I’m currently learning **tenserflow,scikit-learn,pandas,numpy**
 
-- 👨‍💻 All of my projects are available at [wazeer.tk](wazeer.tk)
+- 👨‍💻 All of my projects are available at mailtowazeer@gmail.com
 
-- 💬 Ask me about **react,python,django**
+- 💬 Ask me about **react,python,django,native,node,express,threeJS,tenserflow,nextjs,**
 
 - 📫 How to reach me **wazeerwazz123@gmail.com**
 
