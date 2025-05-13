@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wazeer1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=wazeer1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180px"/>
+  <img src="https://streak-stats.demolab.com?username=wazeer1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180px"/>
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazeer1&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
